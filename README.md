@@ -1,6 +1,7 @@
 # Working title: Bandkit
 
 Bandkit is a (Content) Management System for Bands. 
+
 A web based plattform to share relevant data & information
 
 ## Release I (Project Preparation):
