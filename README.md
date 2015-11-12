@@ -1,7 +1,7 @@
 ## 12.11.15
 
 started to write my own bandkit app.
-i need to get familiar with metoer and understand the core architecture of the framework.
+i need to get familiar with meteor and understand the core architecture of the framework.
 for doing that i try to develop a slack (messenger) clone via a tutorial.
 
 [http://bandkit.meteor.com](http://bandkit.meteor.com)
