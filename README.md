@@ -1,3 +1,11 @@
+## 12.11.15
+
+started to write my own bandkit app.
+need to understand the filestructure of meteor.
+i'll try to develop a slack clone via a tutorial to understand how i need to seperate server side and client side code.
+
+
+[http://bandkit.meteor.com](http://bandkit.meteor.com)
 
 ## 11.11.15
 
@@ -6,7 +14,7 @@
 - [x] write my first app
 - [x] deploy the app
 
-http://t1000.meteor.com
+[http://t1000.meteor.com](http://t1000.meteor.com)
 
 - - - 
 
