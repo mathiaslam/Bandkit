@@ -1,3 +1,24 @@
+## 13.11.15
+finished the tutorial and managed to develop a rough slack clone.
+the tutorial was helpful to understand the core architecture of meteor, but there were many mistakes inside.
+i think i need some more tutorials/information about meteor to write "clean" code in the future.
+
+next steps:
+
+- [] structure the database -> UML
+- [] combine the tables "USER", "TEAM", "TEAM-USER"
+
+
+| USER     | TEAM-USER | TEAM |
+|----------|-----------|------|
+| id       | id        | id   |
+| name     | user_id   | name |
+| password | team_id   |      |
+| email    |           |      |
+| team     |           |      |
+
+[http://bandkit.meteor.com](http://bandkit.meteor.com)
+
 ## 12.11.15
 
 started to write my own bandkit app.
