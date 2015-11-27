@@ -5,8 +5,8 @@ i think i need some more tutorials/information about meteor to write "clean" cod
 
 next steps:
 
-- [ ] structure the database -> UML
-- [ ] combine the tables "USER", "TEAM", "TEAM-USER"
+- [x] structure the database -> UML
+- [x] combine the tables "USER", "TEAM", "TEAM-USER"
 
 
 | USER     | TEAM-USER | TEAM |

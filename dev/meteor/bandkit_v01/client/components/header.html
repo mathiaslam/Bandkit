@@ -1,0 +1,16 @@
+<template name="header">
+    <div class="header">
+        <div class="team-menu">
+            <ul>
+                {{#each teams}}
+                <li>{{teamname}}</li>
+                {{/each}}
+            </ul>
+        </div>
+        <div class="channel-menu">
+            <span class="channel-menu_name">
+				<span class="channel-menu_prefix">#</span> {{currentChannel}}
+            </span>
+        </div>
+    </div>
+</template>
