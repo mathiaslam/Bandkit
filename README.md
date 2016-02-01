@@ -1,7 +1,7 @@
 
 ##pseudo pattern
-
-`"collaborators" : [
+```
+"collaborators" : [
   {
     "img": "/images/sample/avatar1.jpg",
     "name" : "Steve Boomshakalaka",
@@ -23,7 +23,7 @@
     "title" : "Short Title"
   }
 ]
-`
+```
 
 ## wireframes
 ![image](https://github.com/mathiaslam/Bandkit/blob/master/design/wireframes_clickdummy/Ticket%20Overview.png)
