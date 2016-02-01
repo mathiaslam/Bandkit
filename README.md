@@ -1,4 +1,30 @@
 
+##pseudo pattern
+
+`"collaborators" : [
+  {
+    "img": "/images/sample/avatar1.jpg",
+    "name" : "Steve Boomshakalaka",
+    "title" : "CIA"
+  },
+  {
+    "img": "/images/sample/avatar2.jpg",
+    "name" : "Gingersnap Jujubees-Daniels",
+    "title" : "President of the Longest Company Name in the World Corporation, Global Division"
+  },
+  {
+    "img": "/images/sample/avatar3.jpg",
+    "name" : "Sarunus Marciulionis",
+    "title" : "Golden State Warriors"
+  },
+  {
+    "img": "/images/sample/avatar4.jpg",
+    "name" : "Sara Smith",
+    "title" : "Short Title"
+  }
+]
+`
+
 ## wireframes
 ![image](https://github.com/mathiaslam/Bandkit/blob/master/design/wireframes_clickdummy/Ticket%20Overview.png)
 ![image](https://github.com/mathiaslam/Bandkit/blob/master/design/wireframes_clickdummy/Ticket_INPUT_CHECK_20.png)
