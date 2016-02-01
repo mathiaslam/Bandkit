@@ -1,7 +1,7 @@
 ##templates: mustache & handlebars
 
-[mustache.github.io](https://mustache.github.io)
-[handlebarsjs.com](http://handlebarsjs.com)
+- [mustache.github.io](https://mustache.github.io)
+- [handlebarsjs.com](http://handlebarsjs.com)
 
 
 ##pseudo pattern
