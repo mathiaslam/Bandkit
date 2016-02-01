@@ -1,3 +1,11 @@
+
+## wireframes
+![image](https://github.com/mathiaslam/Bandkit/blob/master/design/wireframes_clickdummy/Ticket%20Overview.png)
+![image](https://github.com/mathiaslam/Bandkit/blob/master/design/wireframes_clickdummy/Ticket_INPUT_CHECK_20.png)
+
+
+
+
 ## 13.11.15
 finished the tutorial and managed to develop a rough slack clone.
 the tutorial was helpful to understand the core architecture of meteor, but there were many mistakes inside.
