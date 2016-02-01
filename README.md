@@ -37,6 +37,26 @@
 
 
 
+
+## Midway-Presentation of Master Projects on Feb 2nd at HfK
+
+### Description:
+Bandkit is a webbased management tool for bands. It helps sharing data as well as information with different people and organizing internal band affairs.
+
+### Process:
+Getting familiar with Meteor (JavaScript Framework) was my first step in developing this project. I’ve programmed several code snippets and small apps such as a slack clone (chat app) and a todo app, which will partly be implemented in my project code.
+
+Additionally, I started with the UI by creating some wireframes. I reflected on using a front-end framework such as Bootstrap or Foundation, but after reading „atomic design“ by Brad Frost I was inspired to adopt the workflow of his theory, hence creating my own pattern-based framework.
+
+After creating the wireframes I started to design in a static way with blindtext and best-case scenarios, but I improved my workflow to a more dynamic way and now I am using pseudo-patterns, which means worst-case scenarios. These pseudo-patterns are JSON files with real representative content instead of blindtext.
+
+### Questions:
+
+- Are you a member of a band and would you use Bandkit? 
+- Would you pay for Bandkit? How much? 
+
+
+
 ## 13.11.15
 finished the tutorial and managed to develop a rough slack clone.
 the tutorial was helpful to understand the core architecture of meteor, but there were many mistakes inside.
