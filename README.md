@@ -1,10 +1,14 @@
+##invision: clickdummy
+
+[invision: clickdummy ](https://invis.io/PR5TY5NMZ)
+
 ##templates: mustache & handlebars
 
 - [mustache.github.io](https://mustache.github.io)
 - [handlebarsjs.com](http://handlebarsjs.com)
 
 
-##pseudo pattern
+##pseudo pattern example
 ```
 "collaborators" : [
   {
@@ -30,13 +34,9 @@
 ]
 ```
 
-## wireframes
+## wireframes/design/scribbles
 ![image](https://github.com/mathiaslam/Bandkit/blob/master/design/wireframes_clickdummy/Ticket%20Overview.png)
 ![image](https://github.com/mathiaslam/Bandkit/blob/master/design/wireframes_clickdummy/Ticket_INPUT_CHECK_20.png)
-
-
-
-
 
 ## Midway-Presentation of Master Projects on Feb 2nd at HfK
 
